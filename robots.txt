@@ -1,0 +1,8 @@
+# robots.txt for Sanatana Samyata site
+User-agent: *
+Allow: /
+
+# Allow all search engines to crawl the entire site
+# (Since this is an educational/public resource, we want full indexing)
+
+Sitemap: https://helixoriginator.github.io/sanatana-dharma-defense-guide/sitemap.xml
